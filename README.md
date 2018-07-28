@@ -1,5 +1,40 @@
 # Remote-debug-Python-on-Raspberry-Pi-from-Visual-Studio-Code
 
+Tested Raspberry Pi
+
+|Author|dglover@microsoft.com|
+|-----|-----|
+|Platform|Raspberry Pi|
+|Language| Tested with Python 3|
+|Visual Studio Code| Version 1.25.1|
+|Date| 28 July 2018|
+
+
+
+<!-- TOC -->
+
+- [Remote-debug-Python-on-Raspberry-Pi-from-Visual-Studio-Code](#remote-debug-python-on-raspberry-pi-from-visual-studio-code)
+    - [Install Visual Studio Code](#install-visual-studio-code)
+    - [Install ptvsd version 3 on developer desktop and Raspberry Pi](#install-ptvsd-version-3-on-developer-desktop-and-raspberry-pi)
+    - [Authenticate Raspberry Pi with SSH Keys](#authenticate-raspberry-pi-with-ssh-keys)
+    - [Remote Mount Raspberry Pi File System](#remote-mount-raspberry-pi-file-system)
+    - [Debug your Project](#debug-your-project)
+
+<!-- /TOC -->
+
+## Install Visual Studio Code
+
+1. [Install Visual Studio Code](https://code.visualstudio.com/)
+2. Install the [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+## Install ptvsd version 3 on developer desktop and Raspberry Pi
+
+```
+pip3 install ptvsd==3.0.0
+```
+
+See [Python Remote Debugging](https://code.visualstudio.com/docs/python/debugging#_remote-debugging) for more information.
+
 
 ## Authenticate Raspberry Pi with SSH Keys 
 
