@@ -47,7 +47,7 @@ ssh-copy-id pi@xxx.xxx.xxx.xxx
 
 ## Remote Mount Raspberry Pi File System 
 
-On your developer desktop machine.
+On your developer desktop machine mount the Raspberry Pi file system and create your project on this mounted drive - ie on the Raspberry Pi.
 
 For Linux
 
