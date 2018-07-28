@@ -61,5 +61,5 @@ For Windows and macOS see [How To Use SSHFS to Mount Remote File Systems Over SS
 
 ## Debug your Project
 
-1. See tasks.json for two tasks. One to start the python app on the Raspberry Pi, the other to close.
+1. See tasks.json for two tasks. One to start the python app on the Raspberry Pi, the other to close when you detach the Python debugger.
 2. See launch.json - Python Raspberry Pi: Attach. Select and run from Debug tab
