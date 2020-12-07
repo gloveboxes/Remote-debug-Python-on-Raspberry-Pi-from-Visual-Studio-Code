@@ -24,8 +24,8 @@ Tested Raspberry Pi
 
 ## Install Visual Studio Code
 
-1. [Install Visual Studio Code](https://code.visualstudio.com/)
-2. Install the [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+1. [Install Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=iot-0000-dglover)
+2. Install the [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=iot-0000-dglover)
 
 ## Install ptvsd version 3 on developer desktop and Raspberry Pi
 
@@ -33,7 +33,7 @@ Tested Raspberry Pi
 pip3 install ptvsd==3.0.0
 ```
 
-See [Python Remote Debugging](https://code.visualstudio.com/docs/python/debugging#_remote-debugging) for more information.
+See [Python Remote Debugging](https://code.visualstudio.com/docs/python/debugging?WT.mc_id=iot-0000-dglover#_remote-debugging) for more information.
 
 
 ## Authenticate Raspberry Pi with SSH Keys 
